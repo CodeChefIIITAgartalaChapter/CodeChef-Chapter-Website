@@ -25,7 +25,7 @@ SECRET_KEY = os.getenv('SECRET_KEY', 'Optional default value')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['chapteriiitagt.herokuapp.com','cciiitagtchapter.live']
+ALLOWED_HOSTS = ['chapteriiitagt.herokuapp.com','cciiitagtchapter.live','www.cciiitagtchapter.live']
 
 
 # Application definition
