@@ -1,0 +1,45 @@
+body{
+    font-family: 'montserrat';
+}
+
+.content{
+    margin: 2rem;
+    padding: 2rem;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+}
+
+.content img{
+    vertical-align: middle;
+    width: 30vw;
+    margin-bottom: 3rem ;
+    -webkit-animation: anim 10s linear infinite both;
+    animation: anim 10s linear infinite both;
+}
+
+@-webkit-keyframes anim{
+    0%{
+      transform: translateY(0);
+    }
+    50%{
+      transform: translateY(50px);
+    }
+    100%{
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes anim{
+    0%{
+      transform: translateY(0);
+    }
+    50%{
+      transform: translateY(50px);
+    }
+    100%{
+      transform: translateY(0);
+    }
+  }
