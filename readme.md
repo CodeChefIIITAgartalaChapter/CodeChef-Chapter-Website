@@ -1,4 +1,6 @@
-# Contributing Guildelines
+# Welcome to CodeChef IIIT Agartala Chapter 
+
+## Contributing Guildelines
 
 ### 👍🎉 First off, welcome to the project and thanks for taking the time to contribute! 🎉👍
 <br>
